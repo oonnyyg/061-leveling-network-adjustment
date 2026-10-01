@@ -1,0 +1,4 @@
+name,height_m,sd_m,type
+BM1,50.0,0.0,control
+BM2,60.5,0.0,control
+P1,55.2515,0.001414213562373095,unknown

@@ -1,0 +1,9 @@
+{
+  "degrees_of_freedom": 2,
+  "n_control_points": 2,
+  "n_observations": 3,
+  "n_points": 3,
+  "n_unknown_points": 1,
+  "units": "meter",
+  "weighted_residual_sum_of_squares": 58052.90277777773
+}
